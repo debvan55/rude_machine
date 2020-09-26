@@ -1,0 +1,53 @@
+body{
+  font-family: 'Fjalla One', sans-serif;
+  background-color: #ff847c;
+  text-align: center;
+}
+
+/* TITULO */
+
+.imagenPOPO {
+  width: 10%;
+  position: relative;
+}
+
+/* SET  */
+.set {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.sonido {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 800;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 140px;
+    height: 140px;
+    text-align: center;
+    margin: 9px;
+    background-color: white;
+}
+
+.pressed {
+   box-shadow: 0 3px 4px 0 #DBEDF3;
+   opacity: 0.5;
+}
+
+
+/* FOOTER */
+.banderita {
+  padding-top: .5rem;
+  margin-top: .5rem;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.banderita img {
+  width: 3%;
+}
